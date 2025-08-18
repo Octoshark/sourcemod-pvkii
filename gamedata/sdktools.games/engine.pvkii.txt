@@ -21,6 +21,7 @@
 				"windows"	"4"
 				"windows64"	"8"
 				"linux"		"4"
+				"linux64"	"8"
 				"mac"		"4"
 			}
 			"GetTENext"
@@ -28,6 +29,7 @@
 				"windows"	"8"
 				"windows64"	"16"
 				"linux"		"8"
+				"linux64"	"16"
 				"mac"		"8"
 			}
 			"TE_GetServerClass"
@@ -35,6 +37,7 @@
 				"windows"	"0"
 				"windows64"	"0"
 				"linux"		"0"
+				"linux64"	"0"
 				"mac"		"0"
 			}
 		}
@@ -93,6 +96,7 @@
 				"windows"	"18"
 				"windows64"	"18"
 				"linux"		"58"
+				"linux64"	"58"
 				"mac"		"58"
 			}
 			/**
@@ -105,6 +109,7 @@
 				"windows"	"17"
 				"windows64"	"17"
 				"linux"		"57"
+				"linux64"	"57"
 				"mac"		"57"
 			}
 			/**
